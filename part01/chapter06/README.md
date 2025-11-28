@@ -17,9 +17,12 @@ accessing data from our fantasy football website, www.sportsworldcentral.com.
 
 ## Public API
 
-*Coming Soon*
+Our API is hosted at [API URL]/([API URL]/).
 
-We'll be deploying our application soon. Check back for the public API address.
+You can access the interactive documentation at [[API URL]/docs]([API URL]/docs).
+
+You can view the OpenAPI Specification (OAS) file at
+[[API URL]/openapi.json]([API URL]/openapi.json).
 
 ## Getting Started
 
